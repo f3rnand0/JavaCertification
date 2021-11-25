@@ -1,0 +1,18 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“×·ôþÿÿÿÿ
+L
+java:S1854"6Remove this useless assignment to local variable "Pi".(¡®üÕ
+U
+java:S1854
+"?Remove this useless assignment to local variable "phoneNumber".(æõ¨ø
+^
+java:S1854"CRemove this useless assignment to local variable "worldPopulation".(ºÉì´ùÿÿÿÿ
+O
+java:S1481"4Remove this unused "worldPopulation" local variable.(ºÉì´ùÿÿÿÿ
+F
+java:S1481
+"0Remove this unused "phoneNumber" local variable.(æõ¨ø
+=
+java:S1481"'Remove this unused "Pi" local variable.(¡®üÕ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡®üÕ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”§Ô‚üÿÿÿÿ

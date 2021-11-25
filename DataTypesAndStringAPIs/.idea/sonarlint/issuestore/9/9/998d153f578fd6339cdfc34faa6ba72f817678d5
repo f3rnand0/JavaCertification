@@ -1,0 +1,44 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“×·ôþÿÿÿÿ
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+C
+java:S1481"-Remove this unused "varValue" local variable.(ë»í‹
+<
+java:S1481"&Remove this unused "q" local variable.(Ç¢‹ç
+M
+java:S18540"8Remove this useless assignment to local variable "oInt".(¥ùÔ
+M
+java:S18540"8Remove this useless assignment to local variable "mInt".(¥ùÔ
+S
+java:S1854-"8Remove this useless assignment to local variable "name".(ï“±öüÿÿÿÿ
+P
+java:S1854*":Remove this useless assignment to local variable "result".(Œ²œÒ
+P
+java:S1854&"5Remove this useless assignment to local variable "z".( „žÞüÿÿÿÿ
+P
+java:S1854""5Remove this useless assignment to local variable "z".(©ƒ¸Ùûÿÿÿÿ
+V
+java:S16590"ADeclare "mInt" and all following declarations on a separate line.(¥ùÔ
+<
+java:S1481 "&Remove this unused "x" local variable.(š—úó
+A
+java:S1481""&Remove this unused "z" local variable.(©ƒ¸Ùûÿÿÿÿ
+A
+java:S1481*"+Remove this unused "result" local variable.(Œ²œÒ
+D
+java:S1905-")Remove this unnecessary cast to "String".(ï“±öüÿÿÿÿ
+D
+java:S1481-")Remove this unused "name" local variable.(ï“±öüÿÿÿÿ
+>
+java:S14810")Remove this unused "nInt" local variable.(¥ùÔ
+>
+java:S14810")Remove this unused "mInt" local variable.(¥ùÔ
+>
+java:S14810")Remove this unused "oInt" local variable.(¥ùÔ
+Q	java:S1258"<This block of commented-out lines of code should be removed.(Ë¾ñ 
+I
+java:S1121".Extract the assignment out of this expression.(”’Ñÿÿÿÿÿ
+o
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "h".(öº—
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”÷¢þüÿÿÿÿ

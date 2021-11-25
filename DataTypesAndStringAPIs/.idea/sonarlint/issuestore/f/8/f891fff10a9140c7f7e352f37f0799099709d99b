@@ -1,0 +1,37 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“×·ôşÿÿÿÿ
+Q
+java:S1854";Remove this useless assignment to local variable "minLong".(Æò±Á
+V
+java:S1854";Remove this useless assignment to local variable "maxLong".(‚¶¼Ûûÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "minInt".(µòÿ±
+O
+java:S1854":Remove this useless assignment to local variable "maxInt".(ÔŸ3
+W
+java:S1854"<Remove this useless assignment to local variable "minShort".(Á‚£Ôøÿÿÿÿ
+W
+java:S1854"<Remove this useless assignment to local variable "maxShort".(„½ûëıÿÿÿÿ
+Q
+java:S1854";Remove this useless assignment to local variable "minByte".(™è™Ö
+V
+java:S1854
+";Remove this useless assignment to local variable "maxByte".(Ÿ±±ûÿÿÿÿ
+G
+java:S1481
+",Remove this unused "maxByte" local variable.(Ÿ±±ûÿÿÿÿ
+B
+java:S1481",Remove this unused "minByte" local variable.(™è™Ö
+H
+java:S1481"-Remove this unused "maxShort" local variable.(„½ûëıÿÿÿÿ
+H
+java:S1481"-Remove this unused "minShort" local variable.(Á‚£Ôøÿÿÿÿ
+@
+java:S1481"+Remove this unused "maxInt" local variable.(ÔŸ3
+A
+java:S1481"+Remove this unused "minInt" local variable.(µòÿ±
+G
+java:S1481",Remove this unused "maxLong" local variable.(‚¶¼Ûûÿÿÿÿ
+B
+java:S1481",Remove this unused "minLong" local variable.(Æò±Á
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½àï½úÿÿÿÿ

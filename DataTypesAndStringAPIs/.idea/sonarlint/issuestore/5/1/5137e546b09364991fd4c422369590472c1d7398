@@ -1,0 +1,65 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“×·ôşÿÿÿÿ
+O
+java:S1854,":Remove this useless assignment to local variable "dValue".(›Şña
+P
+java:S1854+":Remove this useless assignment to local variable "fValue".(Â¡å´
+U
+java:S1854*":Remove this useless assignment to local variable "lValue".(ƒí‘äıÿÿÿÿ
+P
+java:S1854)":Remove this useless assignment to local variable "iValue".(èÚ° 
+U
+java:S1854(":Remove this useless assignment to local variable "sValue".(ßù·úÿÿÿÿ
+O
+java:S1854%":Remove this useless assignment to local variable "dValue".(øšÀG
+P
+java:S1854$":Remove this useless assignment to local variable "fValue".(³«éà
+P
+java:S1854#":Remove this useless assignment to local variable "lValue".(¶Ù»û
+U
+java:S1854"":Remove this useless assignment to local variable "iValue".(â½µèÿÿÿÿÿ
+U
+java:S1854!":Remove this useless assignment to local variable "sValue".(¿··˜ùÿÿÿÿ
+Q
+java:S1854 ";Remove this useless assignment to local variable "byValue".(ÛöóÙ
+P
+java:S1854":Remove this useless assignment to local variable "cValue".(¥ãÊÊ
+V
+java:S1854";Remove this useless assignment to local variable "boValue".(„ìŠãùÿÿÿÿ
+\
+java:S1854"ARemove this useless assignment to local variable "intPrimitive2".(¶—›­øÿÿÿÿ
+[
+java:S1854"@Remove this useless assignment to local variable "intPrimitive".( Ã‹Òşÿÿÿÿ
+L
+java:S1481"1Remove this unused "intPrimitive" local variable.( Ã‹Òşÿÿÿÿ
+7
+java:S2129"!Remove this "Integer" constructor(…Âıë
+E
+java:S1874"/Remove this use of "Integer"; it is deprecated.(…Âıë
+M
+java:S1481"2Remove this unused "intPrimitive2" local variable.(¶—›­øÿÿÿÿ
+G
+java:S1481",Remove this unused "boValue" local variable.(„ìŠãùÿÿÿÿ
+A
+java:S1481"+Remove this unused "cValue" local variable.(¥ãÊÊ
+B
+java:S1481 ",Remove this unused "byValue" local variable.(ÛöóÙ
+F
+java:S1481!"+Remove this unused "sValue" local variable.(¿··˜ùÿÿÿÿ
+A
+java:S1481#"+Remove this unused "lValue" local variable.(¶Ù»û
+A
+java:S1481$"+Remove this unused "fValue" local variable.(³«éà
+@
+java:S1481%"+Remove this unused "dValue" local variable.(øšÀG
+Q	java:S125/"<This block of commented-out lines of code should be removed.(¡òşî
+V	java:S1253"<This block of commented-out lines of code should be removed.(÷ÀŠÚøÿÿÿÿ
+7
+java:S2129>"!Remove this "Integer" constructor(–İÚ
+E
+java:S1874>"/Remove this use of "Integer"; it is deprecated.(–İÚ
+5
+java:S2129A"Remove this "Short" constructor(¹ÿôú
+C
+java:S1874A"-Remove this use of "Short"; it is deprecated.(¹ÿôú
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çâ”øùÿÿÿÿ

@@ -1,0 +1,13 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“×·ôþÿÿÿÿ
+Y
+java:S1854
+"<Remove this useless assignment to local variable "piDouble".(Û¥ÀŽ8ìõç Ó/
+X
+java:S1854	";Remove this useless assignment to local variable "piFloat".(“§ñ8Ã™Ý Ó/
+I
+java:S1481	",Remove this unused "piFloat" local variable.(“§ñ8Å™Ý Ó/
+J
+java:S1481
+"-Remove this unused "piDouble" local variable.(Û¥ÀŽ8îõç Ó/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûªˆèþÿÿÿÿ

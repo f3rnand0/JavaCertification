@@ -1,0 +1,11 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“×·ôşÿÿÿÿ
+_
+java:S1854"=Remove this useless assignment to local variable "intResult".(–—ø¦ùÿÿÿÿ8Ô»ùÈÓ/
+`
+java:S1854">Remove this useless assignment to local variable "byteResult".(¿„¹ùÿÿÿÿ8ÍìÈÓ/
+Q
+java:S1481"/Remove this unused "byteResult" local variable.(¿„¹ùÿÿÿÿ8ĞìÈÓ/
+P
+java:S1481".Remove this unused "intResult" local variable.(–—ø¦ùÿÿÿÿ8Ö»ùÈÓ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼½”öÿÿÿÿÿ

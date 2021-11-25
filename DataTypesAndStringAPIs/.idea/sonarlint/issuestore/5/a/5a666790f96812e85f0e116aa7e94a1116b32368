@@ -1,0 +1,21 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“×·ôşÿÿÿÿ
+R
+java:S1854"5Remove this useless assignment to local variable "z".(êëà8ÄÀ¤Ó/
+W
+java:S1854
+"5Remove this useless assignment to local variable "y".(‰Áêúÿÿÿÿ8ÄÀ¤Ó/
+W
+java:S1854	"5Remove this useless assignment to local variable "x".(ûÓ¤Šøÿÿÿÿ8ÿª½¤Ó/
+R
+java:S1854"5Remove this useless assignment to local variable "w".(Ë€õ8ÿª½¤Ó/
+C
+java:S1481"&Remove this unused "w" local variable.(Ë€õ8«½¤Ó/
+H
+java:S1481	"&Remove this unused "x" local variable.(ûÓ¤Šøÿÿÿÿ8«½¤Ó/
+H
+java:S1481
+"&Remove this unused "y" local variable.(‰Áêúÿÿÿÿ8ÇÀ¤Ó/
+C
+java:S1481"&Remove this unused "z" local variable.(êëà8ÇÀ¤Ó/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù°–§üÿÿÿÿ

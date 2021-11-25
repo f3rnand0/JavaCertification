@@ -1,0 +1,23 @@
+
+g	java:S116"RRename this field "field_c" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÔ ³
+g	java:S116"RRename this field "field_d" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãâ¸Ä
+m
+java:S3008
+"RRename this field "field_a" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ž‹½”üÿÿÿÿ
+m
+java:S3008"RRename this field "field_b" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£·ëüùÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ú’“þÿÿÿÿ
+J
+java:S1481"/Remove this unused "variable_a" local variable.(Ûˆ„‰þÿÿÿÿ
+E
+java:S1481"/Remove this unused "variable_b" local variable.(¿Äÿß
+E
+java:S1481"/Remove this unused "variable_c" local variable.(ìÁ±¾
+J
+java:S1481"/Remove this unused "variable_d" local variable.(˜áçŠùÿÿÿÿ
+V	java:S125%"<This block of commented-out lines of code should be removed.(Í¨úîøÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûˆ„‰þÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Äÿß
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÁ±¾
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜áçŠùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Éœ„üÿÿÿÿ

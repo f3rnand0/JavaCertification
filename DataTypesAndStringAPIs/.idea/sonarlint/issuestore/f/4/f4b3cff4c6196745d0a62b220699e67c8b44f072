@@ -1,0 +1,36 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“×·ôşÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "flag".(¼Œ¤²øÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "z".(öäÄ¤ùÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "z".(¸‰‡°
+K
+java:S1854"5Remove this useless assignment to local variable "y".(¸‰‡°
+K
+java:S1854
+"5Remove this useless assignment to local variable "z".(Å––
+P
+java:S1854"5Remove this useless assignment to local variable "z".(«±“Òüÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "z".(àşˆüûÿÿÿÿ
+N
+java:S1854."9Remove this useless assignment to local variable "xByte".(‹”íh
+T
+java:S1854'"9Remove this useless assignment to local variable "xByte".(Á´ìÂÿÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "yInt".(“³Í©ûÿÿÿÿ
+<
+java:S1481
+"&Remove this unused "z" local variable.(Å––
+D
+java:S1481")Remove this unused "flag" local variable.(ÜÂ˜Óúÿÿÿÿ
+V	java:S125$"<This block of commented-out lines of code should be removed.(ü¯Áïûÿÿÿÿ
+D
+java:S1121".Extract the assignment out of this expression.(¸‰‡°
+I
+java:S1121".Extract the assignment out of this expression.(¼Œ¤²øÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´‚²Î
+^
+java:S2583"CChange this condition so that it does not always evaluate to "true"(¼Œ¤²øÿÿÿÿ

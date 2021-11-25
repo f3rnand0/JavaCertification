@@ -1,0 +1,56 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“×·ôşÿÿÿÿ
+O
+java:S1854T":Remove this useless assignment to local variable "result".(ÒòòV
+P
+java:S1854L":Remove this useless assignment to local variable "result".(¿ôµ¦
+U
+java:S1854K":Remove this useless assignment to local variable "result".(éÁ¹ıùÿÿÿÿ
+P
+java:S1854J":Remove this useless assignment to local variable "result".(ÉÉÿÃ
+U
+java:S1854<":Remove this useless assignment to local variable "result".(ÍÕÜßşÿÿÿÿ
+P
+java:S1854;":Remove this useless assignment to local variable "result".(’¤œ”
+P
+java:S18543":Remove this useless assignment to local variable "result".(†Õö
+P
+java:S18542":Remove this useless assignment to local variable "result".(¬æÁø
+P
+java:S1854-":Remove this useless assignment to local variable "result".(Şş¶å
+U
+java:S1854,":Remove this useless assignment to local variable "result".(î’²ÿÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "result".(Œ¤ªüÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "result".(Ê‚‹ı
+U
+java:S1854":Remove this useless assignment to local variable "result".(ÿ»Š¾úÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "result".(¹¡øîøÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "result".(Ó÷—‰
+P
+java:S1854":Remove this useless assignment to local variable "result".(Ú»ó
+U
+java:S1854":Remove this useless assignment to local variable "result".(¸°¢Õúÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "result".(¸°¢Õúÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "result".(ìéª¡şÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "result".(ã¢Á¡úÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "result".(ÑÒ„«
+U
+java:S1854":Remove this useless assignment to local variable "result".(²ÛÂÄıÿÿÿÿ
+F
+java:S1481"+Remove this unused "result" local variable.(²ÛÂÄıÿÿÿÿ
+V	java:S125 "<This block of commented-out lines of code should be removed.(²Š³‚úÿÿÿÿ
+X
+java:S2094D"BRemove this empty class, write its code or make it an "interface".(Ú“’ù
+2
+java:S1116D"Remove this empty statement.(Ú“’ù
+2
+java:S1116E"Remove this empty statement.(Å•
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´Æä•

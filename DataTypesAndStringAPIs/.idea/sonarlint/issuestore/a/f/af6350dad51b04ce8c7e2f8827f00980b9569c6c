@@ -1,0 +1,11 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“×·ôþÿÿÿÿ
+[
+java:S1854">Remove this useless assignment to local variable "intWrapper".(Ùº÷¾8Ãÿ¹ÎÓ/
+>
+java:S2129"!Remove this "Integer" constructor(Ùº÷¾8Åÿ¹ÎÓ/
+L
+java:S1874"/Remove this use of "Integer"; it is deprecated.(Ùº÷¾8Êÿ¹ÎÓ/
+L
+java:S1481"/Remove this unused "intWrapper" local variable.(Ùº÷¾8Êÿ¹ÎÓ/
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µªç@

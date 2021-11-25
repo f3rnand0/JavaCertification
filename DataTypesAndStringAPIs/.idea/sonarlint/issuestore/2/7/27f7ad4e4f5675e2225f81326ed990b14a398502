@@ -1,0 +1,10 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“×·ôşÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "index".(¥Ÿœ€şÿÿÿÿ
+6
+java:S2129=" Remove this "String" constructor(½Çßğ
+g
+java:S1192"LDefine a constant instead of duplicating this literal "Mississippi" 5 times.(»ˆ‘øÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾½É×ıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ë—æĞ

@@ -1,0 +1,12 @@
+
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ë„³®
+Z
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ë·Öx
+\
+java:S1126"AReplace this if-then-else statement by a single return statement.(•ÍŠ—ûÿÿÿÿ
+C
+java:S1068".Remove this unused "MAX_LITERS" private field.(Ë·Öx
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’¹¡‰
+\
+java:S2259"AA "NullPointerException" could be thrown; "obj" is nullable here.(ß’“Õÿÿÿÿÿ

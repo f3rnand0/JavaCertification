@@ -1,0 +1,7 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“×·ôşÿÿÿÿ
+\
+java:S1854	":Remove this useless assignment to local variable "result".(«€Èñûÿÿÿÿ8’åæÍÓ/
+M
+java:S1481	"+Remove this unused "result" local variable.(«€Èñûÿÿÿÿ8”åæÍÓ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ôõÍœşÿÿÿÿ
